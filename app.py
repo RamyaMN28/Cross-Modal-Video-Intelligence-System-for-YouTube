@@ -27,7 +27,7 @@
 # app.jinja_env.filters['format_time'] = lambda s: format_time(s)
 
 # # Configuration
-# YOUTUBE_API_KEY = "AIzaSyDeorAZqvDwHV3xSG04rAbxnR6jtDB9mzM"
+# YOUTUBE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxx"
 # os.makedirs('downloads', exist_ok=True)
 # os.makedirs('static/images', exist_ok=True)
 
